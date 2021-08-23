@@ -89,13 +89,19 @@
               >MDS</a>
               <a class="button is-link" href="http://gaspsdata.net/" target="new">GA Data Warehouse</a>
             </div>
-
             <div class="navbar-item">
+              <a
+                href="http://ecco.gapip.pro-sps.com/index.php"
+                target="_new"
+                class="button is-info is-ecco"
+              >ECCO PIPP</a>
+            </div>
+            <div class="navbar-item" style="padding-left: 0px;">
               <a
                 href="http://ecco.ga-sps.org/login.php"
                 target="_new"
                 class="button is-info is-ecco"
-              >Ecco v9.0 Sign In</a>
+              >ECCO Archived</a>
             </div>
           </div>
         </div>
