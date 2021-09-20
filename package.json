@@ -48,7 +48,7 @@
     "@tailwindcss/custom-forms": "^0.2.1",
     "@tailwindcss/ui": "^0.7.2",
     "@vue/test-utils": "^1.1.2",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "babel-core": "7.0.0-bridge.0",
     "babel-loader": "^8.2.2",
     "babel-polyfill": "^6.26.0",
