@@ -148,15 +148,6 @@
                                 <br>
                                 <a href="mailto:ted@progroup.us">ted@progroup.us</a>
                             </p>
-                            <p>
-                                <strong>Morgan Crafts</strong>
-                                <br> Software Analyst
-                                <br> 270 Peachtree St NW #2100
-                                <br> Atlanta, GA 30303
-                                <br> Work Cell: 770.298.9768
-                                <br>
-                                <a href="mailto:morgan@progroup.us">morgan@progroup.us</a>
-                            </p>
                             <hr>
                             <h2>Evaluation Team</h2>
                             <h4>RTI</h4>
