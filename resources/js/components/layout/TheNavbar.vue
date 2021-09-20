@@ -94,14 +94,14 @@
                 href="http://ecco.gapip.pro-sps.com/index.php"
                 target="_new"
                 class="button is-info is-ecco"
-              >ECCO PIPP</a>
+              >ECCO 2021+</a>
             </div>
             <div class="navbar-item" style="padding-left: 0px;">
               <a
                 href="http://ecco.ga-sps.org/login.php"
                 target="_new"
                 class="button is-info is-ecco"
-              >ECCO Archived</a>
+              >ECCO 2016-2020</a>
             </div>
           </div>
         </div>
